@@ -1,0 +1,10 @@
+build/simd-demo.vcxproj.user
+build/x64
+zlib/
+libpng/
+*.d
+*.o
+*.exe
+*.png
+.vs
+simd-demo
